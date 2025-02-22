@@ -30,5 +30,5 @@ Be sure to install:
 - oh-my-zsh custom theme, if we prefer a different prompt than the default
 - JetBrains theme
 
-
+For further level up iTerm, pick a new font from [Nerd Font](https://www.nerdfonts.com/font-downloads). Currently we like Fira Code.
 
