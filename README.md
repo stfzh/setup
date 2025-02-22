@@ -1,19 +1,16 @@
 # setup
 This guide lists the software tools needed to set up a new computer.
 
-## Software Dependencies
-Can use `brew` to install.
-- yarn
-- node
+## Software Dependencies/CLI
+- brew (Homebrew) 
+yarn
+- nvm (will handle Node.js install)
 - npm
 - npx
 - pip
 - postgres
-- pyenv
-- python3
+- pyenv (will handle Python install)
 - uv
-- yarn
-- zsh
 
 ## Development Tools
 - PyCharm
@@ -24,3 +21,14 @@ Can use `brew` to install.
 ## Note-taking
 - Obsidian
 - Notion
+
+## Themes
+Currently we use the [Dracula](https://draculatheme.com/jetbrains) theme.
+
+Be sure to install:
+- iTerm color preset
+- oh-my-zsh custom theme, if we prefer a different prompt than the default
+- JetBrains theme
+
+
+
